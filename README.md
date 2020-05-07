@@ -10,7 +10,7 @@ The Hardware
 <img src="SCADA-plc-arduino-JavaScript.jpg" alt="SCADA-plc-arduino-JavaScript"> 
 The web 
 <img src="web.png" alt="SCADA-plc-arduino-JavaScript"> 
-Tank controled by potentiometer pluged analog 2 
+The tank is controled by potentiometer pluged to analog 2 
 The web is stored in the SD card
 </body>  
 </tml>
