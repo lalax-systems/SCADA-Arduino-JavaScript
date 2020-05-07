@@ -5,8 +5,10 @@ Arduino Due +   ethernet Shield Module W5100 implement a web server embedded, se
 <html>
 <head></head>
 <body>
+The Hardware 
+<img src="SCADA-plc-arduino-JavaScript.jpg" alt="SCADA-plc-arduino-JavaScript"> 
+The web 
 <img src="web.png" alt="SCADA-plc-arduino-JavaScript"> 
-The Hardware  
-  
+ 
 </body>  
 </tml>
